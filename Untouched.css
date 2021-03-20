@@ -1,0 +1,16 @@
+.label {
+	-fx-padding: 0px; 
+	-fx-border-style: solid inside; 
+	-fx-border-width: 0;
+	-fx-border-insets: 0; 
+	-fx-border-radius: 0; 
+	-fx-alignment: top-left;
+}
+
+.etchLabel {
+	-fx-alignment-text: center;
+	-fx-pref-width: 20;
+	-fx-pref-height: 20;
+	-fx-padding-insets: 0;
+	-fx-background-color: gray;
+}

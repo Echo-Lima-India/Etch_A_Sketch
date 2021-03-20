@@ -1,0 +1,7 @@
+.cursorLabel {
+	-fx-alignment-text: center;
+	-fx-pref-width: 20;
+	-fx-pref-height: 20;
+	-fx-padding-insets: 0;
+	-fx-background-color: red;
+}
